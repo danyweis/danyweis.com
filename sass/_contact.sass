@@ -1,0 +1,58 @@
+#contact
+	max-width: 100%
+	height: 100%
+	position: relative
+	background:
+		image: url(../image/pics/route.jpg)
+		position: center
+		size: cover
+		attachment: fixed
+.picMe
+	height: 40%
+	width: 100%
+	display: flex
+	justify-content: center
+	align-items: center
+.picMe img
+	height: 200px
+	width: auto
+	border-radius: 50%
+.mailLink
+	width: 100%
+	height: 30%
+	display: flex
+	justify-content: center
+	align-items: center
+.mailLink a
+	display: block
+	font-family: 'Oxygen', sans-serif
+	@include clear
+.socialmedia
+	margin-left: 5%
+.footer
+	width: 90%
+	height: 15%
+	display: flex
+	justify-content: space-between
+	align-items: flex-end
+	margin: auto
+
+.social ul
+	display: flex
+.social img
+	height: 64px
+	width: auto
+	margin-right: 3px
+.material ul
+	display: flex
+.material img
+	height: 32px
+	width: auto
+	margin-left: 3px
+@media screen and(max-width:750px)
+	.social img
+		height: 32px
+	.material img
+		height: 16px
+	.picMe img
+		height: 150px

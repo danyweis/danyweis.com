@@ -1,0 +1,31 @@
+@mixin clear
+	color: #f1f9ac
+html, body, #page
+	height: 100%
+
+h1
+	//font-family: 'Oxygen', sans-serif
+	font-family: 'Indie Flower', cursive
+	font-size: 150px
+	@include clear
+a
+	font-size: 70px
+	text-decoration: none
+	font-family: 'Oxygen', sans-serif
+	color: #3f3f3f
+p, li
+	font-family: 'Oxygen', sans-serif
+	font-size: 35px
+	@include clear
+h2
+	font-family: 'Oxygen', sans-serif
+	font-size: 35px
+	color: #3f3f3f
+
+@media screen and(max-width:750px)
+	h1
+		font-size: 75px
+	p, li
+		font-size: 20px
+	a
+		font-size: 25px
