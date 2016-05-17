@@ -8,21 +8,26 @@
 		size: cover
 		attachment: fixed
 .picMe
-	height: 40%
+	height: 50%
 	width: 100%
-	display: flex
-	justify-content: center
-	align-items: center
+	position: relative
 .picMe img
+	position: absolute
+	top: 0
+	bottom: 0
+	left: 0
+	right: 0
+	margin: auto
 	height: 200px
 	width: auto
 	border-radius: 50%
 .mailLink
 	width: 100%
-	height: 30%
-	display: flex
-	justify-content: center
-	align-items: center
+	height: 20%
+	text-align: center
+	//display: flex
+	//justify-content: center
+	//align-items: center
 .mailLink a
 	display: block
 	font-family: 'Oxygen', sans-serif
@@ -30,29 +35,45 @@
 .socialmedia
 	margin-left: 5%
 .footer
+	position: relative
 	width: 90%
-	height: 15%
-	display: flex
-	justify-content: space-between
-	align-items: flex-end
-	margin: auto
-
+	height: 10%
+	display: inline-block
+	margin-top: 5%
+	margin-left: 5%
+.social
+	float: left
+.material
+	float: right
 .social ul
-	display: flex
+	display: inline-block
+.social ul li
+	float: left
 .social img
 	height: 64px
 	width: auto
 	margin-right: 3px
 .material ul
-	display: flex
+	display: inline-block
+.material ul li
+	float: right
 .material img
 	height: 32px
 	width: auto
 	margin-left: 3px
-@media screen and(max-width:750px)
+@media screen and(max-width:800px)
 	.social img
 		height: 32px
 	.material img
 		height: 16px
 	.picMe img
 		height: 150px
+
+	#contact
+		width: 100%
+		height: 100%
+		position: relative
+		background:
+			image: url(../image/pics/routemob.jpg)
+			position: center
+			size: cover
