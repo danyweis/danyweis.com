@@ -124,6 +124,7 @@ h2 {
   width: 100%;
   height: 100%;
   position: relative;
+  background-repeat: no-repeat;
   background-image: url(../image/pics/thailand.jpg);
   background-position: center;
   background-size: cover;
@@ -177,12 +178,8 @@ h2 {
 
 @media screen and (max-width: 800px) {
   .hero {
-    width: 100%;
-    height: 100%;
-    position: relative;
     background-image: url(../image/pics/thailandmob.jpg);
-    background-position: center;
-    background-size: cover; } }
+    background-attachment: scroll; } }
 #portfolio {
   position: relative;
   height: 100%;
@@ -306,11 +303,7 @@ h2 {
     height: 150px; }
 
   #contact {
-    width: 100%;
-    height: 100%;
-    position: relative;
     background-image: url(../image/pics/routemob.jpg);
-    background-position: center;
-    background-size: cover; } }
+    background-attachment: scroll; } }
 
 /*# sourceMappingURL=master.css.map */
