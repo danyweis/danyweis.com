@@ -751,6 +751,46 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/new icones\/certificats.png": {
+		"ft": 32768,
+		"iS": 15900,
+		"oA": 0,
+		"oAP": "\/new icones\/certificats.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/new icones\/man-icon.png": {
+		"ft": 32768,
+		"iS": 13387,
+		"oA": 0,
+		"oAP": "\/new icones\/man-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/new icones\/portfolio.png": {
+		"ft": 32768,
+		"iS": 11541,
+		"oA": 0,
+		"oAP": "\/new icones\/portfolio.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/new icones\/Speach-Bubble-4-icon.png": {
+		"ft": 32768,
+		"iS": 8780,
+		"oA": 0,
+		"oAP": "\/new icones\/Speach-Bubble-4-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/new icones\/Youtube-icon.png": {
+		"ft": 32768,
+		"iS": 15149,
+		"oA": 0,
+		"oAP": "\/new icones\/Youtube-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -863,6 +903,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/sass\/_nav.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/sass\/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/_portfolio.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -888,6 +941,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/sass\/master.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/sass\/master-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/sass\/master.sass": {
 		"aP": 0,
