@@ -1,1 +1,1 @@
-$(function(){var o=$(".menuLink");$aboutMe=$(".aboutMe"),$close=$(".xBox"),o.on("click",function(){$aboutMe.fadeIn(1500)}),$close.on("click",function(){$aboutMe.fadeOut(1500)})});
+$(function(){var n=$(".menuLink");$menuPage=$(".menuPage"),$close=$(".xBox"),n.on("click",function(){$menuPage.fadeIn(1500)}),$close.on("click",function(){$menuPage.fadeOut(1500)})});

@@ -75,52 +75,102 @@ h2 {
   a {
     font-size: 25px; } }
 
-.aboutLink {
-  cursor: pointer; }
+@keyframes menuAnimationOut {
+  from {
+    transform: translateZ(-1500px) rotateY(-100deg); }
+  50% {
+    transform: translateZ(0px) rotateY(-45deg); }
+  to {
+    transform: translateX(150%) scale(2); } }
 
-.aboutMe {
-  display: none;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  background-image: url(../image/pics/thailand.jpg);
-  background-size: cover;
-  background-position: center;
-  z-index: 1000; }
+@-webkit-keyframes menuAnimationOut {
+  from {
+    transform: translateZ(-1500px) rotateY(-100deg); }
+  50% {
+    transform: translateZ(0px) rotateY(-45deg); }
+  to {
+    transform: translateX(150%) scale(2); } }
 
-.xBox {
-  height: 35px;
-  width: 100px;
-  float: right;
-  margin: 10px 10px;
+@keyframes menuAnimationIn {
+  from {
+    transform: translateX(150%) scale(2); }
+  50% {
+    transform: translateX(0px) rotateY(-45deg); }
+  to {
+    transform: translateZ(-1500px) rotateY(-100deg); } }
+
+@-webkit-keyframes menuAnimationIn {
+  from {
+    transform: translateX(150%) scale(2); }
+  50% {
+    transform: translateX(0px) rotateY(-45deg); }
+  to {
+    transform: translateZ(-1500px) rotateY(-100deg); } }
+
+@keyframes circleAnimationOut {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(720deg); } }
+
+@-webkit-keyframes circleAnimationOut {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(720deg); } }
+
+@keyframes circleAnimationIn {
+  from {
+    transform: rotate(720deg); }
+  to {
+    transform: rotate(0deg); } }
+
+@-webkit-keyframes circleAnimationIn {
+  from {
+    transform: rotate(720deg); }
+  to {
+    transform: rotate(0deg); } }
+
+.leMenu {
+  perspective: 1500px; }
+
+.menuBox {
+  height: 25vh;
+  width: 25%;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  border: 1px solid  #3f3f3f;
-  border-radius: 5px;
-  cursor: pointer; }
+  align-items: center; }
 
-.xBox:hover {
-  box-shadow: 5px 5px 15px rgba(63, 63, 63, 0.5); }
+.circle {
+  -webkit-animation: circleAnimationIn 500ms linear forwards;
+  animation: circleAnimationIn 500ms linear forwards; }
 
-.xBox p {
-  color: #3f3f3f; }
+.menuBox:hover .circle {
+  -webkit-animation: circleAnimationOut 1s linear forwards;
+  animation: circleAnimationOut 1s linear forwards; }
 
-.textMe {
-  height: calc(100% - 2px);
-  background: rgba(255, 255, 255, 0.7);
-  padding: 20px; }
+.circle {
+  background-color: #f6f5f3;
+  opacity: 0.5;
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  border: 2px dashed #3f3f3f; }
 
-.textMe p {
-  font-size: 25px;
-  color: #3f3f3f; }
+.menuElement {
+  height: 80px;
+  width: 80px; }
 
-@media screen and (max-width: 750px) {
-  .aboutMe {
-    overflow: auto; }
-  .textMe {
-    height: auto;
-    padding: 10px; } }
+.menuElement span {
+  display: block;
+  position: absolute;
+  color: #f1f9ac;
+  transform: translateZ(-1500px) rotateY(-100deg);
+  -webkit-animation: menuAnimationIn 500ms linear forwards;
+  animation: menuAnimationIn 500ms linear forwards; }
+
+.menuBox:hover span {
+  -webkit-animation: menuAnimationOut 1s linear forwards;
+  animation: menuAnimationOut 1s linear forwards; }
 
 .hero {
   width: 100%;
@@ -160,7 +210,7 @@ h2 {
 
 @media screen and (max-width: 800px) {
   .hero {
-    background-image: url(../image/pics/thailandmob.jpg);
+    background-image: url(../image/pics/routemob.jpg);
     background-attachment: scroll; } }
 
 /*------Vieux site----*/
@@ -244,7 +294,7 @@ h2 {
   .picMe img {
     height: 150px; }
   #contact {
-    background-image: url(../image/pics/routemob.jpg);
+    background-image: url(../image/pics/thailandmob.jpg);
     background-attachment: scroll; } }
 
 .nav {
@@ -259,20 +309,21 @@ h2 {
 .navBox {
   width: 38px;
   height: 38px;
-  padding: 5px;
+  padding: 0 5px 10px 5px;
+  cursor: pointer;
   border: 1px solid #f6f5f3;
   background-color: #3f3f3f; }
   @media screen and (max-width: 800px) {
     .navBox {
       width: 18px;
       height: 18px;
-      padding: 2px; } }
+      padding: 0 3px 10px 3px; } }
 
 .navBox a {
   font-size: 35px; }
   @media screen and (max-width: 800px) {
     .navBox a {
-      font-size: 18px; } }
+      font-size: 15px; } }
 
 .iconB {
   display: none; }
@@ -288,3 +339,48 @@ h2 {
 
 .navBox:hover .iconB {
   display: block; }
+
+.menuPage {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url(../image/pics/thailand.jpg);
+  background-size: cover;
+  background-position: center;
+  z-index: 1000; }
+
+.xBox {
+  height: 35px;
+  width: 100px;
+    width-z-index: 500;
+  float: right;
+  margin: 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid  #3f3f3f;
+  border-radius: 5px;
+  cursor: pointer; }
+
+.xBox:hover {
+  box-shadow: 5px 5px 15px rgba(63, 63, 63, 0.5); }
+
+.xBox p {
+  color: #3f3f3f;
+    color-cursor: pointer; }
+
+.textMe {
+  height: calc(100% - 2px);
+  padding: 20px; }
+
+.textMe p {
+  font-size: 25px;
+  color: #3f3f3f; }
+
+@media screen and (max-width: 750px) {
+  .menuPage {
+    overflow: auto; }
+  .textMe {
+    height: auto;
+    padding: 10px; } }
