@@ -1,0 +1,44 @@
+
+//  *****   NAVBOX ICONS
+
+.nav
+    position: fixed
+    top: calc(100vh - 50vh - 100px)
+    right: 0
+    z-index: 500
+
+.navBox img
+    width: 100%
+
+.navBox
+    width: 38px
+    height: 38px
+    padding: 5px
+    border: 1px solid #f6f5f3
+    background:
+        color: #3f3f3f
+    @media screen and(max-width:800px)
+        width: 18px
+        height: 18px
+        padding: 2px
+
+.navBox a
+    font-size: 35px
+    @media screen and(max-width:800px)
+        font-size: 18px
+
+.iconB
+    display: none
+
+.navBox:hover
+    border: 1px solid
+    transition: all
+    transition-duration: 1s
+    background:
+        color: #f6f5f3
+
+.navBox:hover .iconW
+    display: none
+
+.navBox:hover .iconB
+    display: block

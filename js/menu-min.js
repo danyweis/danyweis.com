@@ -1,0 +1,1 @@
+$(function(){var o=$(".menuLink");$aboutMe=$(".aboutMe"),$close=$(".xBox"),o.on("click",function(){$aboutMe.fadeIn(1500)}),$close.on("click",function(){$aboutMe.fadeOut(1500)})});

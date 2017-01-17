@@ -1,10 +1,10 @@
 $(function(){
 	var
-	$aboutLink = $('.aboutLink');
+	$menuLink = $('.menuLink');
 	$aboutMe = $('.aboutMe');
 	$close = $('.xBox');
 
-	$aboutLink.on('click', function(){
+	$menuLink.on('click', function(){
 		$aboutMe.fadeIn(1500);
 	});
 	$close.on('click', function(){
