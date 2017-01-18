@@ -9,14 +9,6 @@
     to
         transform: translateX(150%) scale(2)
 
-@-webkit-keyframes menuAnimationOut
-    // *****  début
-    from
-        transform: translateZ(-1500px) rotateY(-100deg)
-    50%
-        transform: translateZ(0px) rotateY(-45deg)
-    to
-        transform: translateX(150%) scale(2)
 
 //      *****   GO BACK
 @keyframes menuAnimationIn
@@ -28,26 +20,11 @@
     to
         transform: translateZ(-1500px) rotateY(-100deg)
 
-@-webkit-keyframes menuAnimationIn
-    // *****  début
-    from
-        transform: translateX(150%) scale(2)
-    50%
-        transform: translateX(0px)  rotateY(-45deg)
-    to
-        transform: translateZ(-1500px) rotateY(-100deg)
 
 
 //      *****   les cercle  *****
 //      *****   COME OUT
 @keyframes circleAnimationOut
-    // *****  début
-    from
-        transform: rotate(0deg)
-    to
-        transform: rotate(720deg)
-
-@-webkit-keyframes circleAnimationOut
     // *****  début
     from
         transform: rotate(0deg)
@@ -62,15 +39,6 @@
     to
         transform: rotate(0deg)
 
-@-webkit-keyframes circleAnimationIn
-    // *****  début
-    from
-        transform: rotate(720deg)
-    to
-        transform: rotate(0deg)
-
-
-
 
 
 .leMenu
@@ -82,11 +50,9 @@
     display: flex
     align-items: center
 .circle
-    -webkit-animation: circleAnimationIn 500ms linear forwards
     animation: circleAnimationIn 500ms linear forwards
 
 .menuBox:hover .circle
-    -webkit-animation: circleAnimationOut 1s linear forwards
     animation: circleAnimationOut 1s linear forwards
 .circle
     background:
@@ -106,10 +72,8 @@
     position: absolute
     @include clear
     transform: translateZ(-1500px) rotateY(-100deg)
-    -webkit-animation: menuAnimationIn 500ms linear forwards
     animation: menuAnimationIn 500ms linear forwards
 
 
 .menuBox:hover span
-        -webkit-animation: menuAnimationOut 1s linear forwards
-        animation: menuAnimationOut 1s linear forwards
+    animation: menuAnimationOut 1s linear forwards

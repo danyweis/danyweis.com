@@ -1049,6 +1049,19 @@
 		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/master.sassc",
 		"oF": 0
 		},
+	"\/sass\/_aboutMe.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/sass\/_aboutMe.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/sass\/_contact.sass": {
 		"aP": 0,
 		"bl": 0,

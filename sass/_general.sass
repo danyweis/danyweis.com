@@ -5,13 +5,8 @@ html, body, #page
 body
 	position: relative
 
-h1
-	//font-family: 'Oxygen', sans-serif
-	font-family: 'Indie Flower', cursive
-	font-size: 150px
-	@include clear
 a
-	font-size: 65px
+	font-size: 16px
 	text-decoration: none
 	font-family: 'Oxygen', sans-serif
 	@include dark
@@ -20,15 +15,27 @@ p
 	font-family: 'Oxygen', sans-serif
 	font-size: 16px
 	@include dark
+
+h1
+	font-family: 'Indie Flower', cursive
+	font-size: 150px
+	@include clear
+
 h2
 	font-family: 'Oxygen', sans-serif
 	font-size: 35px
 	@include dark
 
+h3
+	@include clear
+	font-size: 65px
+
 @media screen and(max-width:800px)
 	h1
 		font-size: 75px
+	h3
+		font-size: 25px
 	p
 		font-size: 12px
 	a
-		font-size: 25px
+		font-size: 12px

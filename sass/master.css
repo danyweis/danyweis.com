@@ -46,13 +46,8 @@ html, body, #page {
 body {
   position: relative; }
 
-h1 {
-  font-family: 'Indie Flower', cursive;
-  font-size: 150px;
-  color: #f1f9ac; }
-
 a {
-  font-size: 65px;
+  font-size: 16px;
   text-decoration: none;
   font-family: 'Oxygen', sans-serif;
   color: #3f3f3f; }
@@ -62,28 +57,31 @@ p {
   font-size: 16px;
   color: #3f3f3f; }
 
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 150px;
+  color: #f1f9ac; }
+
 h2 {
   font-family: 'Oxygen', sans-serif;
   font-size: 35px;
   color: #3f3f3f; }
 
+h3 {
+  color: #f1f9ac;
+  font-size: 65px; }
+
 @media screen and (max-width: 800px) {
   h1 {
     font-size: 75px; }
+  h3 {
+    font-size: 25px; }
   p {
     font-size: 12px; }
   a {
-    font-size: 25px; } }
+    font-size: 12px; } }
 
 @keyframes menuAnimationOut {
-  from {
-    transform: translateZ(-1500px) rotateY(-100deg); }
-  50% {
-    transform: translateZ(0px) rotateY(-45deg); }
-  to {
-    transform: translateX(150%) scale(2); } }
-
-@-webkit-keyframes menuAnimationOut {
   from {
     transform: translateZ(-1500px) rotateY(-100deg); }
   50% {
@@ -99,33 +97,13 @@ h2 {
   to {
     transform: translateZ(-1500px) rotateY(-100deg); } }
 
-@-webkit-keyframes menuAnimationIn {
-  from {
-    transform: translateX(150%) scale(2); }
-  50% {
-    transform: translateX(0px) rotateY(-45deg); }
-  to {
-    transform: translateZ(-1500px) rotateY(-100deg); } }
-
 @keyframes circleAnimationOut {
   from {
     transform: rotate(0deg); }
   to {
     transform: rotate(720deg); } }
 
-@-webkit-keyframes circleAnimationOut {
-  from {
-    transform: rotate(0deg); }
-  to {
-    transform: rotate(720deg); } }
-
 @keyframes circleAnimationIn {
-  from {
-    transform: rotate(720deg); }
-  to {
-    transform: rotate(0deg); } }
-
-@-webkit-keyframes circleAnimationIn {
   from {
     transform: rotate(720deg); }
   to {
@@ -141,11 +119,9 @@ h2 {
   align-items: center; }
 
 .circle {
-  -webkit-animation: circleAnimationIn 500ms linear forwards;
   animation: circleAnimationIn 500ms linear forwards; }
 
 .menuBox:hover .circle {
-  -webkit-animation: circleAnimationOut 1s linear forwards;
   animation: circleAnimationOut 1s linear forwards; }
 
 .circle {
@@ -165,131 +141,10 @@ h2 {
   position: absolute;
   color: #f1f9ac;
   transform: translateZ(-1500px) rotateY(-100deg);
-  -webkit-animation: menuAnimationIn 500ms linear forwards;
   animation: menuAnimationIn 500ms linear forwards; }
 
 .menuBox:hover span {
-  -webkit-animation: menuAnimationOut 1s linear forwards;
   animation: menuAnimationOut 1s linear forwards; }
-
-.hero {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  background-repeat: no-repeat;
-  background-image: url(../image/pics/route.jpg);
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed; }
-
-.hero p {
-  color: #f1f9ac; }
-
-.logo {
-  position: relative;
-  height: 45%;
-  text-align: center; }
-
-.logo h1 {
-  margin-top: 5%;
-  position: absolute;
-  top: 50px;
-  left: 0;
-  right: 0; }
-
-.life {
-  margin-top: 5%;
-  height: 25%;
-  text-align: center; }
-
-@media screen and (max-width: 800px) {
-  .hero {
-    background-image: url(../image/pics/routemob.jpg);
-    background-attachment: scroll; } }
-
-/*------Vieux site----*/
-#contact {
-  width: 100%;
-  height: 100%;
-  background-image: url(../image/pics/thailand.jpg);
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed; }
-
-.picMe {
-  height: 50%;
-  width: 100%;
-  position: relative; }
-
-.picMe img {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-  height: 200px;
-  width: auto;
-  border-radius: 50%; }
-
-.mailLink {
-  width: 100%;
-  height: 20%;
-  text-align: center; }
-
-.mailLink a {
-  font-family: 'Oxygen', sans-serif;
-  color: #f1f9ac; }
-
-.socialmedia {
-  margin-left: 5%; }
-
-.footer {
-  position: relative;
-  width: 90%;
-  height: 10%;
-  display: inline-block;
-  margin-top: 5%;
-  margin-left: 5%; }
-
-.social {
-  float: left; }
-
-.material {
-  float: right; }
-
-.social ul {
-  display: inline-block; }
-
-.social ul li {
-  float: left; }
-
-.social img {
-  height: 64px;
-  width: auto;
-  margin-right: 3px; }
-
-.material ul {
-  display: inline-block; }
-
-.material ul li {
-  float: right; }
-
-.material img {
-  height: 32px;
-  width: auto;
-  margin-left: 3px; }
-
-@media screen and (max-width: 800px) {
-  .social img {
-    height: 32px; }
-  .material img {
-    height: 16px; }
-  .picMe img {
-    height: 150px; }
-  #contact {
-    background-image: url(../image/pics/thailandmob.jpg);
-    background-attachment: scroll; } }
 
 .nav {
   position: fixed;
@@ -379,3 +234,183 @@ h2 {
   .menuBG {
     height: auto;
     padding: 10px; } }
+
+.hero {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-image: url(../image/pics/route.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.hero p {
+  color: #f1f9ac; }
+
+.logo {
+  position: relative;
+  height: 45%;
+  text-align: center; }
+
+.logo h1 {
+  margin-top: 5%;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0; }
+
+.life {
+  margin-top: 5%;
+  height: 25%;
+  text-align: center; }
+
+@media screen and (max-width: 800px) {
+  .hero {
+    background-image: url(../image/pics/routemob.jpg);
+    background-attachment: scroll; } }
+
+#aboutMe {
+  position: relative;
+  min-height: 100vh; }
+
+.meBox {
+  min-height: 33vh; }
+
+.triUp {
+  height: 33vh;
+  width: 100%;
+  background-color: pink; }
+
+.triDown {
+  height: 33vh;
+  width: 100%;
+  background-color: pink; }
+
+#portfolio {
+  background-color: #3f3f3f; }
+
+.charlyR {
+  min-height: 250px;
+  padding: 10px 50px;
+  text-align: justify; }
+
+.boite {
+  height: 150px;
+  width: 250px;
+  background-color: #f6f5f3;
+  box-shadow: 0px 0px 10px #3f3f3f; }
+
+/*          Catre deux faces  charlyR           */
+#devant, #derriere {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  left: 0;
+  border: 2px solid #444;
+  text-align: center;
+  font-size: 1.3em;
+  font-family: arial, sans-serif;
+  transition: 1s;
+  backface-visibility: hidden; }
+
+#devant {
+  z-index: 100;
+  background-color: blue; }
+
+#derriere {
+  z-index: 50;
+  background-color: green;
+  transform: rotateY(-180deg); }
+
+.boite:hover #devant {
+  transform: rotateY(180deg); }
+
+.boite:hover #derriere {
+  transform: rotateY(0deg); }
+
+#contact {
+  width: 100%;
+  height: 100%;
+  background-image: url(../image/pics/thailand.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.picMe {
+  height: 50%;
+  width: 100%;
+  position: relative; }
+
+.picMe img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 200px;
+  width: auto;
+  border-radius: 50%; }
+
+.mailLink {
+  width: 100%;
+  height: 20%;
+  text-align: center; }
+
+.mailbox a {
+  font-size: 3em; }
+
+.mailLink a {
+  font-family: 'Oxygen', sans-serif;
+  color: #f1f9ac; }
+
+.socialmedia {
+  margin-left: 5%; }
+
+.footer {
+  position: relative;
+  width: 90%;
+  height: 10%;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%; }
+
+.social {
+  float: left; }
+
+.material {
+  float: right; }
+
+.social ul {
+  display: inline-block; }
+
+.social ul li {
+  float: left; }
+
+.social img {
+  height: 64px;
+  width: auto;
+  margin-right: 3px; }
+
+.material ul {
+  display: inline-block; }
+
+.material ul li {
+  float: right; }
+
+.material img {
+  height: 32px;
+  width: auto;
+  margin-left: 3px; }
+
+@media screen and (max-width: 800px) {
+  .social img {
+    height: 32px; }
+  .material img {
+    height: 16px; }
+  .picMe img {
+    height: 150px; }
+  #contact {
+    background-image: url(../image/pics/thailandmob.jpg);
+    background-attachment: scroll; } }
