@@ -1,5 +1,4 @@
-@mixin clear
-	color: #f1f9ac
+
 html, body, #page
 	height: 100%
 
@@ -15,20 +14,21 @@ a
 	font-size: 65px
 	text-decoration: none
 	font-family: 'Oxygen', sans-serif
-	color: #3f3f3f
-p, li
+	@include dark
+
+p
 	font-family: 'Oxygen', sans-serif
-	font-size: 35px
-	@include clear
+	font-size: 16px
+	@include dark
 h2
 	font-family: 'Oxygen', sans-serif
 	font-size: 35px
-	color: #3f3f3f
+	@include dark
 
 @media screen and(max-width:800px)
 	h1
 		font-size: 75px
-	p, li
-		font-size: 20px
+	p
+		font-size: 12px
 	a
 		font-size: 25px
