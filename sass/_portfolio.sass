@@ -1,8 +1,10 @@
-
+.thumbnails
+    width: 100%
 
 #portfolio
     background:
-        @include dark
+        color: rgba(76, 76, 76, 0.5)
+
 .charlyR
     min-height: 250px
     padding: 10px 50px
@@ -10,17 +12,17 @@
 
 
 .boite
-    height: 150px
+    height: 250px
     width: 250px
     background:
-        @include blanc
+        @include dark
     box-shadow: 0px 0px 10px #3f3f3f
 
 /*          Catre deux faces  charlyR           */
 
 #devant, #derriere
     width: 250px
-    height: 150px
+    height: 250px
     position: absolute
     left: 0
     border: 2px solid #444
@@ -33,14 +35,16 @@
 
 #devant
     z-index: 100
-    background:
-        color: blue
+    overflow: hidden
 
 #derriere
     z-index: 50
     background:
-        color: green
+        color: #ba2f36
     transform: rotateY(-180deg)
+    display: flex
+    align-items: center
+    justify-content: center
 
 .boite:hover #devant
     transform: rotateY(180deg)
