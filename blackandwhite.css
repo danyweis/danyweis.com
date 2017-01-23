@@ -16,6 +16,10 @@ h1, h2, h3, h4{
 h1{
   font-size: 52px;
 }
+.col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,.row{
+  margin:0;
+  padding:0;
+}
 /* ***** NAVIGATION ***** */
 
 .navbar-inverse .navbar-brand {
@@ -33,55 +37,54 @@ h1{
 /* ***** HOME ***** */
 
 #home{
-  height: calc(700px - 70px);
+  min-height: calc(500px - 70px);
 }
 .homeBox{
   height: 100px;
   width: 100%;
-  display: flex;
 }
 .homeBoxRight{
   height: 100%;
-  width: 50px;
 }
 .homeBoxMiddle{
   height: 100%;
-  width: calc(100% - 125px);
   border-left: 3px solid #000;
   border-bottom: 3px solid #000;
   border-radius: 0 0 0 100px;
 }
-.heroText{
-  padding:15px;
-  height: 100px;
-  width: calc(100% - 150px);
-  margin: 0 75px;
-}
+
+
 .heroTextUp{
+  min-height: 100px;
   border-right: 3px solid #000;
-  border-bottom: 3px solid #000;
-  border-radius:0 0 20px 0;
+}
+
+.heroText2{
+  min-height: 100px;
 }
 .heroTextDown{
+  min-height: 100px;
+  border-top: 3px solid #000;
   border-left: 3px solid #000;
+  border-radius: 15px 0 0 0;
+}
+.passion{
+  color: #bada55;
+}
+.lineTower{
+  height:50px;
+  border-top: 3px solid #000;
 }
 
-
-
-.lineTower{
-  width: calc(47.1% - 75px);
-  margin-left: 75px;
-  height: 100%;
+.lineTouchTower{
   border-top: 3px solid #000;
-  border-right: 3px solid #000;
   border-radius: 0 50px 0 0;
+  height:50px;
+  width:47.1%;
 }
 
  /* ***** ABOUT ME ***** */
 
-/*.bgParis{
-  border-bottom: 3px solid #fff;
-}*/
 .aboutBox{
   width: 100%;
   min-height: 600px;
@@ -92,17 +95,12 @@ h1{
 /* ***** topBox ***** */
 
 .topBox{
-  width: 100%;
   height: 100px;
-  display: flex;
 }
 .topBoxLeft{
-  width: 175px;
   height: 100%;
-  background-color: pink;
 }
 .topBoxRight{
-  width: 100%;
   height: 100%;
   border-left: 3px solid #fff;
   border-top: 3px solid #fff;
@@ -111,100 +109,166 @@ h1{
 
 /* ***** topPicBox ***** */
 .imgMe{
-  width:150px;
-  height:auto;
-}
-.topPicBox{
   width: 100%;
-  height: 156px;
-  display:flex;
 }
-.topPicBoxLeft{
-  width: 78px;
-  height: 156px;
+
+.topPicBox{
+  height: auto;
 }
+
 .topPicBoxMiddle{
-  width: 156px;
-  height: 156px;
-}
-.imgMe{
-  border-radius: 50%;
   border: 3px solid #fff;
+  border-radius: 0 50% 0 50%;
+  overflow: hidden;
 }
-.topPicBoxRight{
-  width: calc(100% - 181px);
-  height: 100%;
-}
-.topPicBoxRightTop{
-  width: calc(100% - 50px);
-  height: 50%;
-}
-.topPicBoxRightBottom{
-  width: calc(100% - 50px);
-  height: 50%;
+
+.topPicBoxLeft{
   border-top: 3px solid #fff;
-  border-right: 3px solid #fff;
-  border-radius:0 20px 0 0;
 }
 
 /* ***** topSpaceBox ***** */
 
 .topSpaceBox{
-  width: calc(100% - 50px);
   height: 150px;
-  padding-top: 30px;
-  border-right: 3px solid #fff;
 }
+
 .topSpaceBox>h2{
   margin-top: 0;
+}
+.topSpaceText{
+  height: 150px;
+  border-right: 3px solid #fff;
+}
+.topSpaceRight{
+  border-top: 3px solid #fff;
+  height: 150px;
 }
 
 /* ***** topTextBox ***** */
 
 .topTextBox{
-  width: calc(100% - 50px);
   min-height: 250px;
-  display: flex;
 }
-.topTextBoxRight{
-  width: 50px;
-}
+
 .topTextBoxText{
-  width: calc(100% - 50px);
   min-height: 250px;
-  padding: 10px;
+  padding: 15px;
   border-top: 3px solid #fff;
   border-left: 3px solid #fff;
-  border-radius:30px 0 0 0;
+  border-radius: 30px 0 0 0;
 }
 
 /* ***** topUnderTextBox ***** */
-
 .topUnderTextBox{
-  width: 100%;
   height: 150px;
   display: flex;
 }
+
 .topUnderTextBoxRight{
-  width: 50px;
-  height: 150px;
   border-top: 3px solid #fff;
 }
 .topUnderTextBoxDeco{
-  width: 150px;
   height: 150px;
+  width: 150px;
   border: 3px solid #fff;
-  border-radius: 0 50px 0 50px;
+  border-radius: 0 50% 50% 50%;
   background-color: #bada55;
 }
 
-/* *****     ***** */
+.goToRight{
+  height:25px;
+  border-top:3px solid #fff;
+  border-radius: 25px 0;
+}
 
-/*
-background-color: #bada55;
-background-color: #bababa;
-*/
+/* *****  PORTFOLIO   ***** */
 
-.foot{
-  height: 100vh;
+#portfolio{
+  background-color: #fff;
+}
+.portfolioSpaceMiddle{
+  height: 25px;
+  border-bottom: 3px solid #000;
+  border-radius: 0 0 25px 0;
+}
+
+.portfolioTopRight{
+  border-left: 3px solid #000;
+  height: 50px;
+}
+
+/* ***** portfolioBubbleBox ***** */
+
+.portfolioBubbleBox{
+  height: 40px;
+  display: flex;
+}
+.portfolioBubbleLeft{
+  width: calc(50% - 18.5px);
+  height: 40px;
+}
+.portfolioBubble{
+  width: 40px;
+  height: 40px;
+  border: 3px solid #000;
+  border-radius: 50%;
+  background-color: #bada55;
+}
+
+/* ***** portfolioLineImage ***** */
+
+.portfolioLineImage{
+  background-color: #bada55;
+  height: 50px;
+}
+
+.portfolioLineRight{
+  border-left: 3px solid #000;
+}
+
+/* ***** portfolioSpaceBottom ***** */
+
+.portfolioSpaceBottomRight{
+  height: 50px;
+  border-left: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+.goToContact{
+  height: 50px;
+  border-top: 3px solid #000;
+  border-right: 3px solid #000;
+}
+
+/* ***** CONTACT ***** */
+
+#contact{
+  background-color: #000;
+  min-height: 500px;
+}
+
+.contactFooterSpaceTopRight{
+  height: 50px;
+  border-left: 3px solid #fff;
+}
+
+.contactButtonSpaceShort,.contactButtonSpaceLong{
+  height: 30px;
+  border-right: 3px solid #fff;
+
+}
+
+
+.toMailUnderButton{
+  height: 30px; /* half of the btn-green */
+  border-left: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+}
+
+.btn-green{
+  background-color: #bada55;
+}
+.btn-green:hover{
+  background-color: #000;
+  border:3px solid #fff;
+  color: #bada55;
 }
