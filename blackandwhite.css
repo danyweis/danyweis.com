@@ -9,12 +9,15 @@ body{
   padding:0px;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5, h6{
   font-family: 'Indie Flower', cursive;
   margin: 0px;
 }
 h1{
   font-size: 52px;
+}
+h6{
+  font-size:16px;
 }
 .col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12,.row{
   margin:0;
@@ -32,6 +35,10 @@ h1{
 }
 .nav>li>a:hover {
     color: #000;
+}
+
+.navbar{
+  box-shadow: 0 0 15px #000;
 }
 
 /* ***** HOME ***** */
@@ -52,7 +59,6 @@ h1{
   border-bottom: 3px solid #000;
   border-radius: 0 0 0 100px;
 }
-
 
 .heroTextUp{
   min-height: 100px;
@@ -176,9 +182,9 @@ h1{
 }
 
 .goToRight{
-  height:25px;
+  height: 45px;
   border-top:3px solid #fff;
-  border-radius: 25px 0;
+  border-radius: 45px 0;
 }
 
 /* *****  PORTFOLIO   ***** */
@@ -194,7 +200,7 @@ h1{
 
 .portfolioTopRight{
   border-left: 3px solid #000;
-  height: 50px;
+  height: 100px;
 }
 
 /* ***** portfolioBubbleBox ***** */
@@ -219,7 +225,11 @@ h1{
 
 .portfolioLineImage{
   background-color: #bada55;
-  height: 50px;
+  box-shadow: 0 0 10px #000;
+}
+
+.portfolioLineImage>a{
+  color: #000;
 }
 
 .portfolioLineRight{
@@ -246,8 +256,14 @@ h1{
   min-height: 500px;
 }
 
-.contactFooterSpaceTopRight{
-  height: 50px;
+.eMail{
+  color: #bada55;
+  transform: rotate(-90deg);
+  z-index:500;
+}
+
+.contactFooterSpaceMailBoxRight{
+  height: 100px;
   border-left: 3px solid #fff;
 }
 
@@ -257,18 +273,20 @@ h1{
 
 }
 
-
-.toMailUnderButton{
-  height: 30px; /* half of the btn-green */
+.toContactUnderButton{
+  height: 50px;
   border-left: 3px solid #fff;
   border-bottom: 3px solid #fff;
 }
 
-.btn-green{
-  background-color: #bada55;
+.contactFooterRight{
+  height: 50px;
+  border-bottom:3px solid #fff;
+  color: #fff;
 }
-.btn-green:hover{
-  background-color: #000;
-  border:3px solid #fff;
-  color: #bada55;
+
+/* ***** FOOTER ***** */
+
+.footer{
+  height: 25px;
 }
