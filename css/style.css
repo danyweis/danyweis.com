@@ -1,0 +1,225 @@
+body {
+  padding-top: 60px;
+  font-family: "Roboto Slab", serif; }
+
+.mainContent {
+  padding: 0;
+  box-shadow: 0 0 10px #000; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Indie Flower", cursive;
+  margin: 0; }
+
+h1 {
+  font-size: 52px; }
+
+h6 {
+  font-size: 16px; }
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .row {
+  margin: 0;
+  padding: 0; }
+
+.navbar {
+  box-shadow: 0 0 10px #000; }
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+  margin: 5px 0; }
+
+.nav li a {
+  color: #fff;
+  margin: 10px 5px; }
+
+.nav li a:hover {
+  color: #000; }
+
+#home {
+  min-height: calc(500px - 60px); }
+
+.homeBox {
+  height: 100px;
+  width: 100%; }
+
+.homeBoxRight {
+  height: 100%; }
+
+.homeBoxMiddle {
+  height: 100%;
+  border-left: 3px solid #000;
+  border-bottom: 3px solid #000;
+  border-radius: 0 0 0 100px; }
+
+.heroTextUp {
+  min-height: 100px;
+  border-right: 3px solid #000; }
+
+.heroText2 {
+  min-height: 100px; }
+
+.heroTextDown {
+  min-height: 100px;
+  border-top: 3px solid #000;
+  border-left: 3px solid #000;
+  border-radius: 15px 0 0 0; }
+
+.passion {
+  color: #bada55; }
+
+.lineTower {
+  height: 50px;
+  border-top: 3px solid #000; }
+
+.lineTouchTower {
+  border-top: 3px solid #000;
+  border-radius: 0 50px 0 0;
+  height: 50px;
+  width: 47.1%; }
+
+.aboutBox {
+  width: 100%;
+  min-height: 600px;
+  color: #fff;
+  background-color: #000; }
+
+.topBox {
+  height: 100px; }
+
+.topBoxLeft {
+  height: 100%; }
+
+.topBoxRight {
+  height: 100%;
+  border-left: 3px solid #fff;
+  border-top: 3px solid #fff;
+  border-radius: 150px 0 0 0; }
+
+.imgMe {
+  width: 100%; }
+
+.topPicBoxMiddle {
+  border: 3px solid #fff;
+  border-radius: 0 50% 0 50%;
+  overflow: hidden; }
+
+.topPicBoxLeft {
+  border-top: 3px solid #fff; }
+
+.topSpaceBox {
+  height: 150px; }
+
+.topSpaceText {
+  height: 150px;
+  border-right: 3px solid #fff; }
+
+.topSpaceRight {
+  height: 150px;
+  border-top: 3px solid #fff; }
+
+.topTextBox {
+  min-height: 250px; }
+
+.topTextBoxText {
+  min-height: 250px;
+  padding: 15px;
+  border-top: 3px solid #fff;
+  border-left: 3px solid #fff;
+  border-radius: 30px 0 0 0; }
+
+.topUnderTextBox {
+  height: 150px;
+  display: flex; }
+
+.topUnderTextBoxRight {
+  border-top: 3px solid #fff; }
+
+.topUnderTextBoxDeco {
+  height: 150px;
+  width: 150px;
+  border-radius: 0 50% 50% 50%;
+  background-color: #bada55;
+  border: 3px solid #fff; }
+
+.goToRight {
+  height: 45px;
+  border-top: 3px solid #fff;
+  border-radius: 45px 0 0 0; }
+
+#portfolio {
+  background-color: #fff; }
+
+.portfolioSpaceMiddle {
+  height: 25px;
+  border-bottom: 3px solid #000;
+  border-radius: 0 0 25px 0; }
+
+.portfolioTopRight {
+  height: 100px;
+  border-left: 3px solid #000; }
+
+.portfolioBubbleBox {
+  height: 40px;
+  display: flex; }
+
+.portfolioBubbleLeft {
+  width: calc(50% - 18.5px);
+  height: 40px; }
+
+.portfolioBubble {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #000;
+  border-radius: 50%;
+  background-color: #bada55; }
+
+.portfolioLineImage {
+  box-shadow: 0 0 10px #000;
+  background-color: #bada55; }
+
+.portfolioLineImage a {
+  color: #000; }
+
+.portfolioLineRight {
+  border-left: 3px solid #000; }
+
+.portfolioSpaceBottomRight {
+  height: 50px;
+  border-left: 3px solid #000;
+  border-bottom: 3px solid #000; }
+
+.goToContact {
+  height: 50px;
+  border-top: 3px solid #000;
+  border-right: 3px solid #000; }
+
+#contact {
+  min-height: 500px;
+  background-color: #000; }
+
+.eMail {
+  color: #bada55;
+  transform: rotate(-90deg);
+  z-index: 500; }
+
+.contactFooterSpaceMailBoxRight {
+  height: 100px;
+  border-left: 3px solid #fff; }
+
+.contactButtonSpaceShort, .contactButtonSpaceLong {
+  height: 30px;
+  border-right: 3px solid #fff; }
+
+.toContactUnderButton {
+  height: 50px;
+  border-left: 3px solid #fff;
+  border-bottom: 3px solid #fff; }
+
+.contactFooterRight {
+  height: 50px;
+  border-bottom: 3px solid #fff;
+  color: #bada55; }
+
+.footer {
+  height: 30px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,82 @@
+.aboutBox
+    width: 100%
+    min-height: 600px
+    @include clear
+    background:
+        @include dark
+
+// ***** topBox *****
+
+.topBox
+    height: 100px
+
+.topBoxLeft
+    height: 100%
+
+.topBoxRight
+    height: 100%
+    @include borderLeftWhite
+    @include borderTopWhite
+    border-radius: 150px 0 0 0
+
+// ***** topPicBox *****
+
+.imgMe
+    width: 100%
+
+//.topPicBox
+    height: auto
+
+.topPicBoxMiddle
+    @include borderWhite
+    border-radius: 0 50% 0 50%
+    overflow: hidden
+
+.topPicBoxLeft
+    @include borderTopWhite
+
+// ***** topSpaceBox *****
+
+.topSpaceBox
+    height: 150px
+
+.topSpaceText
+    height: 150px
+    @include borderRightWhite
+.topSpaceRight
+    height: 150px
+    @include borderTopWhite
+
+// ***** topTextBox *****
+
+.topTextBox
+    min-height: 250px
+
+.topTextBoxText
+    min-height: 250px
+    padding: 15px
+    @include borderTopWhite
+    @include borderLeftWhite
+    border-radius: 30px 0 0 0
+
+// ***** topUnderTextBox *****
+
+.topUnderTextBox
+    height: 150px
+    display: flex
+
+.topUnderTextBoxRight
+    @include borderTopWhite
+
+.topUnderTextBoxDeco
+    height: 150px
+    width: 150px
+    border-radius: 0 50% 50% 50%
+    background:
+        @include lime
+    @include borderWhite
+
+.goToRight
+    height: 45px
+    @include borderTopWhite
+    border-radius: 45px 0 0 0
