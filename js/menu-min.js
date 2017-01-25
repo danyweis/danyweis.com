@@ -1,1 +1,0 @@
-$(function(){var n=$(".menuLink");$menuPage=$(".menuPage"),$close=$(".xBox"),n.on("click",function(){$menuPage.fadeIn(1500)}),$close.on("click",function(){$menuPage.fadeOut(1500)})});

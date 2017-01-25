@@ -134,27 +134,241 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/master.css": {
+	"\/codepen\/blackandwhite.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/css\/master-min.css",
+		"oAP": "\/codepen\/blackandwhite-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/master.css.map": {
+	"\/codepen\/ch.com.png": {
+		"ft": 32768,
+		"iS": 864772,
+		"oA": 0,
+		"oAP": "\/codepen\/ch.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/codepen\/charly.com.png": {
+		"ft": 32768,
+		"iS": 598966,
+		"oA": 0,
+		"oAP": "\/codepen\/charly.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/codepen\/charlyr.com.png": {
+		"ft": 32768,
+		"iS": 2904746,
+		"oA": 0,
+		"oAP": "\/codepen\/charlyr.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/codepen\/danweis.com.png": {
+		"ft": 32768,
+		"iS": 1566733,
+		"oA": 0,
+		"oAP": "\/codepen\/danweis.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/codepen\/dw.com.png": {
+		"ft": 32768,
+		"iS": 2025367,
+		"oA": 0,
+		"oAP": "\/codepen\/dw.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/codepen\/eiffel.com.png": {
+		"ft": 32768,
+		"iS": 439518,
+		"oA": 0,
+		"oAP": "\/codepen\/eiffel.com.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_about.sassc": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/master.css.map",
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_about.sassc",
 		"oF": 0
 		},
-	"\/gustaveEiffel.html": {
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_contact.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_contact.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_general.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_general.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_home.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_home.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_mixin.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_mixin.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_nav.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_nav.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_portfolio.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_portfolio.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/style.sassc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/gustaveEiffel.html",
+		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/style.sassc",
 		"oF": 0
+		},
+	"\/css\/_about.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_about.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_contact.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_general.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_general.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_home.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_mixin.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_mixin.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_nav.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/_portfolio.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_portfolio.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/eiffel.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/eiffel-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/style.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/style.css.map",
+		"oF": 0
+		},
+	"\/css\/style.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/image\/icon\/android-icon-144x144.png": {
 		"ft": 32768,
@@ -414,6 +628,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/image\/pics\/socialmedia.png": {
+		"ft": 32768,
+		"iS": 118475,
+		"oA": 0,
+		"oAP": "\/image\/pics\/socialmedia.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/image\/pics\/streetsBangkok.jpg": {
 		"ft": 16384,
 		"iS": 631042,
@@ -435,6 +657,14 @@
 		"iS": 167510,
 		"oA": 0,
 		"oAP": "\/image\/pics\/thailandmob.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/image\/Skyline\/skylineParis.png": {
+		"ft": 32768,
+		"iS": 14385,
+		"oA": 0,
+		"oAP": "\/image\/Skyline\/skylineParis.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -540,460 +770,11 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/js\/menu-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/menu-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/menu.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/menu-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.css.map": {
+	"\/maquette\/gustaveEiffel.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.css.map",
+		"oAP": "\/maquette\/gustaveEiffel.html",
 		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.min.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.min.css.map",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.css.map",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.min.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/css\/bootstrap.min.css.map",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.eot",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.ttf",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.woff",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/fonts\/glyphicons-halflings-regular.woff2",
-		"oF": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/js\/bootstrap.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/js\/bootstrap-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/js\/bootstrap.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/js\/bootstrap.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/maquette\/bootstrap-3.3.7-dist\/js\/npm.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/maquette\/bootstrap-3.3.7-dist\/js\/npm-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/maquette\/css\/master-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/css\/master-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/css\/master.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/maquette\/css\/master-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/maquette\/document.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/document.html",
-		"oF": 0
-		},
-	"\/maquette\/images\/airplane.png": {
-		"ft": 32768,
-		"iS": 7682,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/airplane.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/bgBlack.png": {
-		"ft": 32768,
-		"iS": 328693,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/bgBlack.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/browser.png": {
-		"ft": 32768,
-		"iS": 10529,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/browser.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/bulb.png": {
-		"ft": 32768,
-		"iS": 7612,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/bulb.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/clouds.jpg": {
-		"ft": 16384,
-		"iS": 74760,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/clouds.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/coffee.png": {
-		"ft": 32768,
-		"iS": 40333,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/coffee.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/earphones.png": {
-		"ft": 32768,
-		"iS": 59515,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/earphones.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/logo1.png": {
-		"ft": 32768,
-		"iS": 6839,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/logo1.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/logo2.png": {
-		"ft": 32768,
-		"iS": 5168,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/logo2.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/logo3.png": {
-		"ft": 32768,
-		"iS": 9383,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/logo3.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/logo4.png": {
-		"ft": 32768,
-		"iS": 6811,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/logo4.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/logo5.png": {
-		"ft": 32768,
-		"iS": 5724,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/logo5.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/macbook.png": {
-		"ft": 32768,
-		"iS": 53384,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/macbook.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/moi.jpg": {
-		"ft": 16384,
-		"iS": 547249,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/moi.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/moi.png": {
-		"ft": 32768,
-		"iS": 25302,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/moi.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/pens.png": {
-		"ft": 32768,
-		"iS": 77869,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/pens.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/picture.png": {
-		"ft": 32768,
-		"iS": 7194,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/picture.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/images\/startEx.png": {
-		"ft": 32768,
-		"iS": 4552,
-		"oA": 0,
-		"oAP": "\/maquette\/images\/startEx.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/maquette\/index.html",
-		"oF": 0
-		},
-	"\/maquette\/Screen shots\/Screen 1.png": {
-		"ft": 32768,
-		"iS": 1107833,
-		"oA": 0,
-		"oAP": "\/maquette\/Screen shots\/Screen 1.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/Screen shots\/Screen 2.png": {
-		"ft": 32768,
-		"iS": 288059,
-		"oA": 0,
-		"oAP": "\/maquette\/Screen shots\/Screen 2.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/Screen shots\/Screen 3.png": {
-		"ft": 32768,
-		"iS": 292630,
-		"oA": 0,
-		"oAP": "\/maquette\/Screen shots\/Screen 3.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/Screen shots\/Screen 5.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/maquette\/Screen shots\/Screen 5.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/maquette\/Screen shots\/Screen 6.png": {
-		"ft": 32768,
-		"iS": 130062,
-		"oA": 0,
-		"oAP": "\/maquette\/Screen shots\/Screen 6.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/certificatB.png": {
-		"ft": 32768,
-		"iS": 15900,
-		"oA": 0,
-		"oAP": "\/newIcones\/certificatB.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/certificatW.png": {
-		"ft": 32768,
-		"iS": 10545,
-		"oA": 0,
-		"oAP": "\/newIcones\/certificatW.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/contactB.png": {
-		"ft": 32768,
-		"iS": 7716,
-		"oA": 0,
-		"oAP": "\/newIcones\/contactB.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/newIcones\/contactW.png": {
-		"ft": 32768,
-		"iS": 7633,
-		"oA": 0,
-		"oAP": "\/newIcones\/contactW.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/meB.png": {
-		"ft": 32768,
-		"iS": 12566,
-		"oA": 0,
-		"oAP": "\/newIcones\/meB.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/menuB.png": {
-		"ft": 32768,
-		"iS": 5558,
-		"oA": 0,
-		"oAP": "\/newIcones\/menuB.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/menuW.png": {
-		"ft": 32768,
-		"iS": 5550,
-		"oA": 0,
-		"oAP": "\/newIcones\/menuW.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/meW.png": {
-		"ft": 32768,
-		"iS": 13811,
-		"oA": 0,
-		"oAP": "\/newIcones\/meW.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/newIcones\/portfolioB.png": {
-		"ft": 32768,
-		"iS": 11541,
-		"oA": 0,
-		"oAP": "\/newIcones\/portfolioB.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/portfolioW.png": {
-		"ft": 32768,
-		"iS": 7603,
-		"oA": 0,
-		"oAP": "\/newIcones\/portfolioW.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/youtubeB.png": {
-		"ft": 32768,
-		"iS": 15149,
-		"oA": 0,
-		"oAP": "\/newIcones\/youtubeB.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/newIcones\/youtubeW.png": {
-		"ft": 32768,
-		"iS": 10666,
-		"oA": 0,
-		"oAP": "\/newIcones\/youtubeW.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -1012,201 +793,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_aboutMe.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_aboutMe.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_contact.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_contact.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_general.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_general.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_hero.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_hero.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_portfolio.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_portfolio.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_reset.sassc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/_reset.sassc",
-		"oF": 0
-		},
-	"\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/master.sassc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/sass\/.sass-cache\/9cee301c66d601dbd36496af999dd8dbd9256d28\/master.sassc",
-		"oF": 0
-		},
-	"\/sass\/_aboutMe.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_aboutMe.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_contact.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_contact.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_general.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_general.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_hero.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_hero.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_menuPage.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_menuPage.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_mixin.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_mixin.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_nav.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_nav.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_portfolio.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_portfolio.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/_reset.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/sass\/_reset.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/eiffel.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sass\/eiffel.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/master.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/sass\/master-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/sass\/master.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sass\/master.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		}
 	},
 "hooks": [

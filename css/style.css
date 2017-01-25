@@ -1,13 +1,13 @@
 body {
   padding-top: 60px;
-  font-family: "Roboto Slab", serif; }
+  font-family: 'Roboto Slab', serif; }
 
 .mainContent {
   padding: 0;
   box-shadow: 0 0 10px #000; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Indie Flower", cursive;
+  font-family: 'Indie Flower', cursive;
   margin: 0; }
 
 h1 {
@@ -217,9 +217,7 @@ h6 {
 .contactFooterRight {
   height: 50px;
   border-bottom: 3px solid #fff;
-  color: #bada55; }
+  color: #fff; }
 
 .footer {
   height: 30px; }
-
-/*# sourceMappingURL=style.css.map */
