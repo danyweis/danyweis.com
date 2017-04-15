@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <!--script src="jquery-3.1.1.min.js"></script-->
+
+
+    <!-- Latest compiled JavaScript -->
+    <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script-->
+
+    <script src="https://use.fontawesome.com/8c14f362f7.js"></script>
+
+    <link rel="stylesheet" href="weatherApp-min.css">
+
+    <title>FreeCodeCamp Weather App</title>
+</head>
+
+<body>
+
+
+    <div id="app" class="container-fluid app">
+
+        <div class="boxDeFlex">
+
+            <div class="top imp">
+                <span id="city">Bangkok</span>, <span id="country">TH</span><br />
+                <h5 id="time">10:20pm</h5>
+            </div>
+            <!-- end top -->
+
+            <div class="middle">
+                <div class="imp">
+                    <span id="temp">35</span> &deg<span><a onclick="changeTemp()" id="btnTemp">C</a></span>
+                    <br />
+                </div>
+
+                <div>
+                    Wind speed : <span id="windSpeed">25</span><span id="speed"> m/sec</span><br />& humidity : <span id="humidity">45</span> %
+                </div>
+            </div>
+            <!-- end middle-->
+
+            <div class="bottom bgc">
+                <img class="img-responsive" id="logo" src="https://raw.githubusercontent.com/danyweis/pics4codepen/master/weather/icon/dontKnow.png" alt="" />
+            </div>
+            <!-- end bottom-->
+
+            <footer class="">
+                <div class="">
+
+                    Data from :<br>
+                    <a href="http://openweathermap.org/" target="-blank"><img class="owm img-responsive" src="https://raw.githubusercontent.com/danyweis/pics4codepen/master/weather/icon/openweathermap.png" alt="" /></a>
+                </div>
+                <div class="">
+
+                    my portfolio :<br>
+                    <a href="http://www.danyweis.com" target="-blank"><img class="dw" src="https://raw.githubusercontent.com/danyweis/pics4codepen/master/danyweisLogo.png" alt="" /></a>
+                </div>
+            </footer>
+        </div>
+        <!-- end boxFlex-->
+
+    </div>
+    <!-- end container -->
+
+    <script src="weatherApp-min.js">
+    </script>
+</body>
+</html>

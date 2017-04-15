@@ -1,0 +1,1 @@
+function getLocation(){navigator.geolocation?navigator.geolocation.getCurrentPosition(showPosition):loc.innerHTML="Geolocation is not supported by this browser."}function showPosition(o){var t=o.coords.latitude,i=o.coords.longitude;console.log(t+","+i)}getLocation();
