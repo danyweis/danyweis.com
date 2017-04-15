@@ -10,11 +10,39 @@
 .portfolioTopRight
     height: 100px
     @include borderLeftBlack
+        
+// ***** portfolioBox ***** 
+#portfolioBox
+    background:
+        image: url(../image/pics/code.jpeg)
+        repeat: no-repeat
+        size: cover
+        position: center
+        opacity: 0.5
+        
+// ***** portfolioSpaceBetweenImg *****
 
+.portfolioSpaceBetweenImg
+    height: 15px
+
+.portfolioSpaceBetweenImgRight
+    height: 15px
+    @include borderLeftBlack
+        
+#bubbleXS
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    height: 40px 
+    width: 100%
+    
+        
 // ***** portfolioBubbleBox *****
 
 .portfolioBubbleBox
     height: 40px
+    width: 100%
     display: flex
 
 .portfolioBubbleLeft
@@ -41,6 +69,13 @@
 
 .portfolioLineRight
     @include borderLeftBlack
+    padding: 0px
+
+.portfolioLineLeft
+    padding: 0px
+
+.portfolioLineIn
+    
 
 // ***** portfolioSpaceBottom *****
 
@@ -53,3 +88,10 @@
     height: 50px
     @include borderTopBlack
     @include borderRightBlack
+
+        
+
+
+        
+        
+        
