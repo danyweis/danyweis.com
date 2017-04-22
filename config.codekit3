@@ -7,7 +7,7 @@
 		"uuidString": "1E89F11E-AF68-42CB-B650-995FF67B0782"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25813",
 "files": {
 	"\/bootstrap-3.3.7-dist\/css\/bootstrap-theme.css": {
 		"aP": 0,
@@ -150,7 +150,10 @@
 		"oA": 0,
 		"oAP": "\/codepen\/ch.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/codepen\/charly.com.png": {
 		"ft": 32768,
@@ -158,7 +161,10 @@
 		"oA": 0,
 		"oAP": "\/codepen\/charly.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/codepen\/charlyr.com.png": {
 		"ft": 32768,
@@ -166,7 +172,20 @@
 		"oA": 0,
 		"oAP": "\/codepen\/charlyr.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/codepen\/charlyr.jpg": {
+		"ft": 16384,
+		"iS": 158069,
+		"oA": 0,
+		"oAP": "\/codepen\/charlyr.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/codepen\/danweis.com.png": {
 		"ft": 32768,
@@ -174,7 +193,10 @@
 		"oA": 0,
 		"oAP": "\/codepen\/danweis.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/codepen\/dw.com.png": {
 		"ft": 32768,
@@ -182,7 +204,10 @@
 		"oA": 0,
 		"oAP": "\/codepen\/dw.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/codepen\/eiffel.com.png": {
 		"ft": 32768,
@@ -190,7 +215,50 @@
 		"oA": 0,
 		"oAP": "\/codepen\/eiffel.com.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/codepen\/eiffel.jpg": {
+		"ft": 16384,
+		"iS": 103934,
+		"oA": 0,
+		"oAP": "\/codepen\/eiffel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/codepen\/quote.jpg": {
+		"ft": 16384,
+		"iS": 331281,
+		"oA": 0,
+		"oAP": "\/codepen\/quote.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/codepen\/twitch.jpg": {
+		"ft": 16384,
+		"iS": 104443,
+		"oA": 0,
+		"oAP": "\/codepen\/twitch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/codepen\/weatherApp.jpg": {
+		"ft": 16384,
+		"iS": 133739,
+		"oA": 0,
+		"oAP": "\/codepen\/weatherApp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/_about.sassc": {
 		"ft": 8192,
@@ -238,6 +306,54 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/css\/.sass-cache\/6208d4aac8587ab8028a3246247eb80c4de5bac3\/style.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_about.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_about.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_contact.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_contact.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_general.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_general.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_home.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_home.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_mixin.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_mixin.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_nav.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_nav.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_portfolio.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/_portfolio.sassc",
+		"oF": 0
+		},
+	"\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/style.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/.sass-cache\/fe7b56ac0734b6ae366221d5c807434fdb806b43\/style.sassc",
 		"oF": 0
 		},
 	"\/css\/_about.sass": {
@@ -331,16 +447,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/css\/eiffel.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/eiffel-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -370,223 +476,295 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/image\/icon\/android-icon-144x144.png": {
+	"\/image\/icon\/danyweis\/android-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 18173,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-144x144.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/android-icon-192x192.png": {
+	"\/image\/icon\/danyweis\/android-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 30014,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-192x192.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/android-icon-36x36.png": {
+	"\/image\/icon\/danyweis\/android-icon-36x36.png": {
 		"ft": 32768,
 		"iS": 2468,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-36x36.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-36x36.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/android-icon-48x48.png": {
+	"\/image\/icon\/danyweis\/android-icon-48x48.png": {
 		"ft": 32768,
 		"iS": 3432,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-48x48.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-48x48.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/android-icon-72x72.png": {
+	"\/image\/icon\/danyweis\/android-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 5853,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-72x72.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/android-icon-96x96.png": {
+	"\/image\/icon\/danyweis\/android-icon-96x96.png": {
 		"ft": 32768,
 		"iS": 9127,
 		"oA": 0,
-		"oAP": "\/image\/icon\/android-icon-96x96.png",
+		"oAP": "\/image\/icon\/danyweis\/android-icon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-114x114.png": {
+	"\/image\/icon\/danyweis\/apple-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 12182,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-114x114.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-114x114.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-120x120.png": {
+	"\/image\/icon\/danyweis\/apple-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 13282,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-120x120.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-120x120.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-144x144.png": {
+	"\/image\/icon\/danyweis\/apple-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 18173,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-144x144.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-152x152.png": {
+	"\/image\/icon\/danyweis\/apple-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 19927,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-152x152.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-152x152.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-180x180.png": {
+	"\/image\/icon\/danyweis\/apple-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 26699,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-180x180.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-180x180.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-57x57.png": {
+	"\/image\/icon\/danyweis\/apple-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 4232,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-57x57.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-57x57.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-60x60.png": {
+	"\/image\/icon\/danyweis\/apple-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 4501,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-60x60.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-60x60.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-72x72.png": {
+	"\/image\/icon\/danyweis\/apple-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 5853,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-72x72.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-76x76.png": {
+	"\/image\/icon\/danyweis\/apple-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 6354,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-76x76.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-76x76.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon-precomposed.png": {
+	"\/image\/icon\/danyweis\/apple-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 30777,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon-precomposed.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/apple-icon.png": {
+	"\/image\/icon\/danyweis\/apple-icon.png": {
 		"ft": 32768,
 		"iS": 30777,
 		"oA": 0,
-		"oAP": "\/image\/icon\/apple-icon.png",
+		"oAP": "\/image\/icon\/danyweis\/apple-icon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/browserconfig.xml": {
+	"\/image\/icon\/danyweis\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/image\/icon\/browserconfig.xml",
+		"oAP": "\/image\/icon\/danyweis\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/image\/icon\/favicon-16x16.png": {
+	"\/image\/icon\/danyweis\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1326,
 		"oA": 0,
-		"oAP": "\/image\/icon\/favicon-16x16.png",
+		"oAP": "\/image\/icon\/danyweis\/favicon-16x16.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/favicon-32x32.png": {
+	"\/image\/icon\/danyweis\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 2176,
 		"oA": 0,
-		"oAP": "\/image\/icon\/favicon-32x32.png",
+		"oAP": "\/image\/icon\/danyweis\/favicon-32x32.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/favicon-96x96.png": {
+	"\/image\/icon\/danyweis\/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 9127,
 		"oA": 0,
-		"oAP": "\/image\/icon\/favicon-96x96.png",
+		"oAP": "\/image\/icon\/danyweis\/favicon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/favicon.ico": {
+	"\/image\/icon\/danyweis\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/image\/icon\/favicon.ico",
+		"oAP": "\/image\/icon\/danyweis\/favicon.ico",
 		"oF": 0
 		},
-	"\/image\/icon\/icon.txt": {
+	"\/image\/icon\/danyweis\/icon.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/image\/icon\/icon.txt",
+		"oAP": "\/image\/icon\/danyweis\/icon.txt",
 		"oF": 0
 		},
-	"\/image\/icon\/manifest.json": {
+	"\/image\/icon\/danyweis\/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/image\/icon\/manifest-min.json",
+		"oAP": "\/image\/icon\/danyweis\/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/image\/icon\/ms-icon-144x144.png": {
+	"\/image\/icon\/danyweis\/ms-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 18173,
 		"oA": 0,
-		"oAP": "\/image\/icon\/ms-icon-144x144.png",
+		"oAP": "\/image\/icon\/danyweis\/ms-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/ms-icon-150x150.png": {
+	"\/image\/icon\/danyweis\/ms-icon-150x150.png": {
 		"ft": 32768,
 		"iS": 19479,
 		"oA": 0,
-		"oAP": "\/image\/icon\/ms-icon-150x150.png",
+		"oAP": "\/image\/icon\/danyweis\/ms-icon-150x150.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/ms-icon-310x310.png": {
+	"\/image\/icon\/danyweis\/ms-icon-310x310.png": {
 		"ft": 32768,
 		"iS": 65068,
 		"oA": 0,
-		"oAP": "\/image\/icon\/ms-icon-310x310.png",
+		"oAP": "\/image\/icon\/danyweis\/ms-icon-310x310.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/image\/icon\/ms-icon-70x70.png": {
+	"\/image\/icon\/danyweis\/ms-icon-70x70.png": {
 		"ft": 32768,
 		"iS": 5571,
 		"oA": 0,
-		"oAP": "\/image\/icon\/ms-icon-70x70.png",
+		"oAP": "\/image\/icon\/danyweis\/ms-icon-70x70.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/pics\/Atelier1.jpg": {
 		"ft": 16384,
@@ -594,7 +772,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/Atelier1.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/bangkok.jpg": {
 		"ft": 16384,
@@ -602,7 +782,29 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/bangkok.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/image\/pics\/code.jpeg": {
+		"ft": 16384,
+		"iS": 226179,
+		"oA": 0,
+		"oAP": "\/image\/pics\/code.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/image\/pics\/code1.jpeg": {
+		"ft": 16384,
+		"iS": 296909,
+		"oA": 0,
+		"oAP": "\/image\/pics\/code1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/moi.jpg": {
 		"ft": 16384,
@@ -610,7 +812,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/moi.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/route.jpg": {
 		"ft": 16384,
@@ -618,7 +822,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/route.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/routemob.jpg": {
 		"ft": 16384,
@@ -626,7 +832,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/routemob.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/socialmedia.png": {
 		"ft": 32768,
@@ -634,7 +842,10 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/socialmedia.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/pics\/streetsBangkok.jpg": {
 		"ft": 16384,
@@ -642,7 +853,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/streetsBangkok.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/thailand.jpg": {
 		"ft": 16384,
@@ -650,7 +863,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/thailand.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/pics\/thailandmob.jpg": {
 		"ft": 16384,
@@ -658,7 +873,9 @@
 		"oA": 0,
 		"oAP": "\/image\/pics\/thailandmob.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/image\/Skyline\/skylineParis.png": {
 		"ft": 32768,
@@ -666,7 +883,10 @@
 		"oA": 0,
 		"oAP": "\/image\/Skyline\/skylineParis.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/atom.png": {
 		"ft": 32768,
@@ -674,7 +894,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/atom.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/bootstrap.png": {
 		"ft": 32768,
@@ -682,7 +905,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/bootstrap.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/git.png": {
 		"ft": 32768,
@@ -690,7 +916,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/git.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/github.png": {
 		"ft": 32768,
@@ -698,7 +927,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/github.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/Instagram.png": {
 		"ft": 32768,
@@ -706,7 +938,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/Instagram.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/jquery.png": {
 		"ft": 32768,
@@ -714,7 +949,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/jquery.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/linkedin.png": {
 		"ft": 32768,
@@ -722,7 +960,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/linkedin.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/logo.png": {
 		"ft": 32768,
@@ -730,7 +971,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/rondopc.png": {
 		"ft": 32768,
@@ -738,7 +982,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/rondopc.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/sass.png": {
 		"ft": 32768,
@@ -746,7 +993,32 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/sass.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/image\/social\/screenman.png": {
+		"ft": 32768,
+		"iS": 26699,
+		"oA": 0,
+		"oAP": "\/image\/social\/screenman.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/image\/social\/screenmanSmall.png": {
+		"ft": 32768,
+		"iS": 4501,
+		"oA": 0,
+		"oAP": "\/image\/social\/screenmanSmall.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/stackoverflow.png": {
 		"ft": 32768,
@@ -754,7 +1026,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/stackoverflow.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/image\/social\/twitter.png": {
 		"ft": 32768,
@@ -762,7 +1037,10 @@
 		"oA": 0,
 		"oAP": "\/image\/social\/twitter.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -770,11 +1048,959 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/maquette\/gustaveEiffel.html": {
+	"\/maquette\/eiffel\/eiffel.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/maquette\/eiffel\/eiffel-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 14825,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 24334,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 2480,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 3282,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5265,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 7744,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 10052,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 10974,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 14825,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 16120,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 21633,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 3983,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 4239,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 5265,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 5608,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 24977,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 24977,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/maquette\/gustaveEiffel.html",
+		"oAP": "\/maquette\/eiffel\/favicon\/browserconfig.xml",
 		"oF": 0
+		},
+	"\/maquette\/eiffel\/favicon\/eiffelFavicon.jpg": {
+		"ft": 16384,
+		"iS": 70818,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/eiffelFavicon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1306,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2214,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 7744,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/eiffel\/favicon\/favicon.ico",
+		"oF": 0
+		},
+	"\/maquette\/eiffel\/favicon\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/maquette\/eiffel\/favicon\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/maquette\/eiffel\/favicon\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 14825,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 15839,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 52031,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/favicon\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 5115,
+		"oA": 0,
+		"oAP": "\/maquette\/eiffel\/favicon\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/eiffel\/gustaveEiffel.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/eiffel\/gustaveEiffel.html",
+		"oF": 0
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2402,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 1769,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 1439,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 1534,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1637,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 1857,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 2099,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2048,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2402,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 2673,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 4256,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 1674,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 1713,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 1637,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1673,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 2343,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 2343,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/favicon\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/maquette\/twitch\/favicon\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1159,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1297,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 1857,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/favicon\/favicon.ico",
+		"oF": 0
+		},
+	"\/maquette\/twitch\/favicon\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/maquette\/twitch\/favicon\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/maquette\/twitch\/favicon\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 2402,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 2691,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 9249,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/favicon\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 1723,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/favicon\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/twitch\/twitch-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/twitch-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/maquette\/twitch\/twitch.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/twitch-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/maquette\/twitch\/twitch.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/twitch.html",
+		"oF": 0
+		},
+	"\/maquette\/twitch\/twitch.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/maquette\/twitch\/twitch-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/maquette\/twitch\/twitch.js~": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/twitch\/twitch.js~",
+		"oF": 0
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 8218,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 10121,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 2746,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 3046,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 3549,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 5669,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 6444,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 6736,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 8218,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 8759,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 11154,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 3223,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 3301,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 3549,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 3614,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 11913,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 11913,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/weatherApp\/favicon\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/maquette\/weatherApp\/favicon\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 2216,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2633,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 5669,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/weatherApp\/favicon\/favicon.ico",
+		"oF": 0
+		},
+	"\/maquette\/weatherApp\/favicon\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/maquette\/weatherApp\/favicon\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/maquette\/weatherApp\/favicon\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 8218,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 8697,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 23498,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/favicon\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 3535,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/favicon\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/maquette\/weatherApp\/weatherApp-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/maquette\/weatherApp\/weatherApp-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/maquette\/weatherApp\/weatherApp.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/maquette\/weatherApp\/weatherApp-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/maquette\/weatherApp\/weatherApp.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/maquette\/weatherApp\/weatherApp.html",
+		"oF": 0
+		},
+	"\/maquette\/weatherApp\/weatherApp.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/maquette\/weatherApp\/weatherApp-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -1475,6 +2701,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1675,6 +2905,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -1752,6 +2986,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1951,6 +3189,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -2002,6 +3244,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2096,6 +3342,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -2542,7 +3792,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2565,14 +3816,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -2635,7 +3878,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
