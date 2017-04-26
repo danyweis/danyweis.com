@@ -4,7 +4,7 @@ body {
 
 .mainContent {
   padding: 0;
-  box-shadow: 0 0 10px #000; }
+  box-shadow: 0 0 10px #222; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Indie Flower", cursive;
@@ -21,7 +21,7 @@ h6 {
   padding: 0; }
 
 .navbar {
-  box-shadow: 0 0 10px #000; }
+  box-shadow: 0 0 10px #222; }
 
 .navbar-inverse .navbar-brand {
   color: #fff;
@@ -32,7 +32,7 @@ h6 {
   margin: 10px 5px; }
 
 .nav li a:hover {
-  color: #000; }
+  color: #222; }
 
 #home {
   min-height: calc(500px - 60px); }
@@ -46,21 +46,21 @@ h6 {
 
 .homeBoxMiddle {
   height: 100%;
-  border-left: 3px solid #000;
-  border-bottom: 3px solid #000;
+  border-left: 3px solid #222;
+  border-bottom: 3px solid #222;
   border-radius: 0 0 0 100px; }
 
 .heroTextUp {
   min-height: 100px;
-  border-right: 3px solid #000; }
+  border-right: 3px solid #222; }
 
 .heroText2 {
   min-height: 100px; }
 
 .heroTextDown {
   min-height: 100px;
-  border-top: 3px solid #000;
-  border-left: 3px solid #000;
+  border-top: 3px solid #222;
+  border-left: 3px solid #222;
   border-radius: 15px 0 0 0; }
 
 .passion {
@@ -68,10 +68,10 @@ h6 {
 
 .lineTower {
   height: 50px;
-  border-top: 3px solid #000; }
+  border-top: 3px solid #222; }
 
 .lineTouchTower {
-  border-top: 3px solid #000;
+  border-top: 3px solid #222;
   border-radius: 0 50px 0 0;
   height: 50px;
   width: 47.1%; }
@@ -80,7 +80,7 @@ h6 {
   width: 100%;
   min-height: 600px;
   color: #fff;
-  background-color: #000; }
+  background-color: #222; }
 
 .topBox {
   height: 100px; }
@@ -150,12 +150,12 @@ h6 {
 
 .portfolioSpaceMiddle {
   height: 25px;
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #222;
   border-radius: 0 0 25px 0; }
 
 .portfolioTopRight {
   height: 100px;
-  border-left: 3px solid #000; }
+  border-left: 3px solid #222; }
 
 #portfolioBox {
   background-image: url(../image/pics/code1.jpeg);
@@ -169,7 +169,7 @@ h6 {
 
 .portfolioSpaceBetweenImgRight {
   height: 15px;
-  border-left: 3px solid #000; }
+  border-left: 3px solid #222; }
 
 .bubbleXS {
   display: flex;
@@ -191,19 +191,19 @@ h6 {
 .portfolioBubble {
   width: 40px;
   height: 40px;
-  border: 3px solid #000;
+  border: 3px solid #222;
   border-radius: 50%;
   background-color: #bada55; }
 
 .portfolioLineImage {
-  box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 10px #222;
   background-color: #bada55; }
 
 .portfolioLineImage a {
-  color: #000; }
+  color: #222; }
 
 .portfolioLineRight {
-  border-left: 3px solid #000;
+  border-left: 3px solid #222;
   padding: 0px; }
 
 .portfolioLineLeft {
@@ -211,17 +211,17 @@ h6 {
 
 .portfolioSpaceBottomRight {
   height: 50px;
-  border-left: 3px solid #000;
-  border-bottom: 3px solid #000; }
+  border-left: 3px solid #222;
+  border-bottom: 3px solid #222; }
 
 .goToContact {
   height: 50px;
-  border-top: 3px solid #000;
-  border-right: 3px solid #000; }
+  border-top: 3px solid #222;
+  border-right: 3px solid #222; }
 
 #contact {
   min-height: 500px;
-  background-color: #000; }
+  background-color: #222; }
 
 .eMail {
   color: #bada55;
