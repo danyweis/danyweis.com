@@ -1,0 +1,39 @@
+.produit {
+    color: blue
+}
+
+.produitTitle {
+    color: #333;
+    text-decoration: underline
+}
+
+.prixNeuf {
+    color: darkred;
+    text-decoration: line-through;
+}
+
+.imgShow {
+    float: left;
+    max-width: 40%;
+    margin-right: 10px;
+}
+
+.stop {
+    clear: both;
+}
+
+.imgs1,
+.imgs2,
+.imgs3,
+.imgs4 {
+    width: 50%;
+    float: left;
+    z-index: 1;
+}
+
+#contactMe {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #fff;
+}
